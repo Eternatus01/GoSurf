@@ -47,7 +47,7 @@ const setSlide = (index) => {
 
 <style lang="scss" scoped>
 .hero {
-    background-image: url("../../assets/images/background.jpg");
+    background-image: url("../../assets/images/Background.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

@@ -31,8 +31,8 @@
 </template>
 
 <script setup>
-import logo from "../../assets/images/logo.svg";
-import search from "../../assets/images/search.svg";
+import logo from "../../assets/images/Logo.svg";
+import search from "../../assets/images/Search.svg";
 import surf from "../../assets/images/Surf.svg";
 import travel from "../../assets/images/Travel.svg";
 import camp from "../../assets/images/Camp.svg";
