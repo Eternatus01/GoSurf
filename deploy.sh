@@ -24,6 +24,7 @@ git commit -m 'deploy'
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git main
 
 # если вы публикуете по адресу https://<USERNAME>.github.io/<REPO>
-git push -f https://github.com/Eternatus01/GoSurf.git main:gh-pages
+# Используйте следующую команду, заменив YOUR_TOKEN на ваш токен
+git push -f https://YOUR_TOKEN@github.com/Eternatus01/GoSurf.git main:gh-pages
 
 cd - 
